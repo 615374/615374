@@ -29,7 +29,7 @@ Las herramientas tecnológicas que domino son:
 Podés encontrarme en: https://www.linkedin.com/in/gisela-lanzillotta
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giselalanzi/615374/main/programadora.png" width="300" alt="Ilustración programadora"/>
+  <img src="https://github.com/615374/615374/blob/main/programadora.png" width="300" alt="Ilustración programadora"/>
 </p>
 
 
