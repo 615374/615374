@@ -1,5 +1,5 @@
 Hola! 👋🏻 Soy Gisela Lanzillotta y actualmente me encuentro estudiando la Tecnicatura Universitaria en Programación en la UTN (Universidad Tecnológica Nacional). Llevo unos tres años formándome en el área de IT.
-Durante este recorrido, me especialicé en lenguajes y tecnologías front-end y back-end, lo que me permite tener una formación técnica como desarrolladora full-stack desempeñándome  en proyectos de este tipo.
+Durante este recorrido, me especialicé tanto en lenguajes y tecnologías front-end como back-end, lo que me permite tener una formación técnica como desarrolladora full-stack desempeñándome en proyectos de este tipo.
 
 Las herramientas tecnológicas que domino son:
 
