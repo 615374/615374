@@ -22,6 +22,7 @@ Las herramientas tecnológicas que domino son:
 
 <div align="center">
 
+
 🔗Frameworks y bibliotecas:
 
 <p align="center">
@@ -34,6 +35,7 @@ Las herramientas tecnológicas que domino son:
 
 <div align="center">
   
+
 🔋Bases de datos:
 
 <p align="center">
@@ -46,6 +48,7 @@ Las herramientas tecnológicas que domino son:
 
 <div align="center">
 
+
 🧪 API de pruebas
 
 <p align="center">
@@ -55,6 +58,7 @@ Las herramientas tecnológicas que domino son:
 </div>
 
 <div align="center">
+
 
 🔄Control de versiones:
 
@@ -68,13 +72,10 @@ Las herramientas tecnológicas que domino son:
 ----‐---------------------------------------------------------------------------------------------------
 
 <div align="center">
-Podés encontrarme en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] 
-https://www.linkedin.com/in/gisela-lanzillotta
+Podés encontrarme en: https://www.linkedin.com/in/gisela-lanzillotta
 
 Contactame si tenes alguna propuesta en mente. 👩🏻‍💻
 
 </div>
-
 
 💌 giselalanzillotta@gmail.com##
