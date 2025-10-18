@@ -22,7 +22,8 @@ Las herramientas tecnológicas que domino son:
 
 
 <div align="center">
-🔗Frameworks y bibliotecas:
+
+  🔗Frameworks y bibliotecas:
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -68,13 +69,10 @@ Las herramientas tecnológicas que domino son:
 
 </div>
 
-----‐---------------------------------------------------------------------------------------------------
 
-<div align="center">
 Podés encontrarme en: https://www.linkedin.com/in/gisela-lanzillotta
 
 Contactame si tenes alguna propuesta en mente. 👩🏻‍💻
 
-</div>
 
 💌 giselalanzillotta@gmail.com##
