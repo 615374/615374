@@ -20,9 +20,8 @@ Las herramientas tecnológicas que domino son:
 
 </div>
 
+
 <div align="center">
-
-
 🔗Frameworks y bibliotecas:
 
 <p align="center">
