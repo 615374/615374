@@ -20,6 +20,7 @@ Las herramientas tecnológicas que domino son:
 
 </div>
 
+<div align="center">
 
 🔗Frameworks y bibliotecas:
 
@@ -29,6 +30,10 @@ Las herramientas tecnológicas que domino son:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
+</div>
+
+<div align="center">
+  
 🔋Bases de datos:
 
 <p align="center">
@@ -36,11 +41,20 @@ Las herramientas tecnológicas que domino son:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+</div>
+
+
+<div align="center">
+
 🧪 API de pruebas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+</div>
+
+<div align="center">
 
 🔄Control de versiones:
 
@@ -48,11 +62,19 @@ Las herramientas tecnológicas que domino son:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-----‐---------------------------------
 
+</div>
+
+----‐---------------------------------------------------------------------------------------------------
+
+<div align="center">
 Podés encontrarme en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/gisela-lanzillotta
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] 
+https://www.linkedin.com/in/gisela-lanzillotta
 
 Contactame si tenes alguna propuesta en mente. 👩🏻‍💻
+
+</div>
+
 
 💌 giselalanzillotta@gmail.com##
