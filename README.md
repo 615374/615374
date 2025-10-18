@@ -34,4 +34,4 @@ Podés encontrarme en: https://www.linkedin.com/in/gisela-lanzillotta
 
 
 Contactame si tenes alguna propuesta en mente.
-💌 giselalanzillotta@gmail.com##
+💌 giselalanzillotta@gmail.com
