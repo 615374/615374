@@ -25,6 +25,7 @@ Las herramientas tecnológicas que domino son:
 
 </div>
 
+
 Podés encontrarme en: https://www.linkedin.com/in/gisela-lanzillotta
 
 Contactame si tenes alguna propuesta en mente. 👩🏻‍💻
